@@ -10,7 +10,7 @@
 - Programar
 
 ### Mis series y películas favoritas son:
-- La casa de papel
+- Star Wars
 - Batman
 
 ### Descripción de la foto:
