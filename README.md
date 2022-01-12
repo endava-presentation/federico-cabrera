@@ -3,6 +3,9 @@
 
 ## Hola mi nombre es Federico Cabrera. En la actualidad estoy estudiando Ingenieria en Sistemas de Informacion en la UTN.
 
+### Tecnologias:
+- Python 
+- Bash
 
 ### Mis hobbies son:
 - Deportes
