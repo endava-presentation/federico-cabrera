@@ -11,7 +11,7 @@
 
 ### Mis series y películas favoritas son:
 - La casa de papel
-- Star Wars
+- Batman
 
 ### Descripción de la foto:
 ![Nombre](https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2013/09/jedi-starfighter.jpg)
