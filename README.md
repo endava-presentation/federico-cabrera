@@ -1,17 +1,17 @@
 # federico-cabrera
 # Presentación
 
-## Breve descripción personal
+## Hola mi nombre es Federico Cabrera. En la actualidad estoy estudiando Ingenieria en Sistemas de Informacion en la UTN.
 
 
 ### Mis hobbies son:
-- 
-- 
-- 
+- Deportes
+- Viajar
+- Programar
 
 ### Mis series y películas favoritas son:
-- 
-- 
+- La casa de papel
+- Star Wars
 
 ### Descripción de la foto:
-![Nombre](nombre-foto.jpg)
+![Nombre](https://starwarsblog.starwars.com/wp-content/uploads/sites/6/2013/09/jedi-starfighter.jpg)
