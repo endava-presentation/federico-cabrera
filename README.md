@@ -6,6 +6,7 @@
 ### Tecnologias:
 - Python 
 - Bash
+- C
 
 ### Mis hobbies son:
 - Deportes
